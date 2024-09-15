@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarzPlayAssignment</string>
+    <string name="retry">retry</string>
+    <string name="search_movies">Search movies...</string>
+</resources>
